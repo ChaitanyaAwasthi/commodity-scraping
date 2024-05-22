@@ -11,7 +11,7 @@ rice_10kg_path = r'C:\Users\chait\OneDrive\Desktop\scrape\rice_data\rice_10kg.cs
 rice_20kg_path = r'C:\Users\chait\OneDrive\Desktop\scrape\rice_data\rice_20kg_path.csv'
 
 
-
+    
 url_amazon = 'https://www.amazon.ae/s?k=1121+sella+basmati+rice&crid=L1BKYP8WLXUX&sprefix=1121+sella+basmati+rice+%2Caps%2C210&ref=nb_sb_noss_2'
 amazon_20kg_url = 'https://www.amazon.ae/Mahmood-Muntaha-1121-Basmati-Rice/dp/B08TJ39WLX/ref=sr_1_9?sr=8-9'
 dubai_store_url = 'https://www.dubaistore.com/search?q=1121+sella+basmati'
